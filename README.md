@@ -1,2 +1,2 @@
 # Data Science labs and projects
-Forked from learn-co-students
+Lessons forked from https://github.com/learn-co-students 
